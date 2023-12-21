@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bk1.jpg</file>
+        <file>image/合肥工业大学校徽.bmp</file>
+        <file>music/bgm1.mp3</file>
+        <file>music/Hillsong Young &amp; Free - Wake (Live).ogg</file>
+        <file>music/青花瓷.mp3</file>
+        <file>image/一键三连.jpg</file>
+        <file>image/屏幕截图_20230212_151900.png</file>
+        <file>image/屏幕截图_20230212_151930.png</file>
+        <file>image/屏幕截图_20230212_151944.png</file>
+        <file>image/07242259901688.jpg</file>
+        <file>image/dog1.bmp</file>
+        <file>image/QQ图片20230626175643.jpg</file>
+        <file>image/QQ图片20230626175710.jpg</file>
+        <file>image/QQ图片20230626175752.jpg</file>
+    </qresource>
+</RCC>
